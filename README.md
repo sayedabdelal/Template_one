@@ -14,7 +14,7 @@ This project involves the conversion of the "Leon - PSD Agency Template" into a 
 
 ## Demo
 
-You can view the live demo of the converted website [here](https://sayedabdelal.github.io/Template_One.github.io/).
+You can view the live demo of the converted website [here](https://sayedabdelal.github.io/Template_one/).
 
 ## Features
 
